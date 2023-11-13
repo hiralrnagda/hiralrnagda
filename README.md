@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hiral
 - 👀 I’m interested in Full Stack Development/ Backend Development
 - 🌱 I’m currently learning System Design
-💞️ I’m looking to collaborate on Building Scalable Systems
+- 💞️ I’m looking to collaborate on Building Scalable Systems
 - 📫 Here's How to reach me -> hiralrnagda@gmail.com
 
 <!---
