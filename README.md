@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Hiral Nagda
-- 👀 I’m interested in software development and cloud technologies
-- 💞️ I’m looking to collaborate on projects that have positive impact on world
-- 📫 Reach me via email hiralrnagda@gmail.com OR nagda.h@northeastern.edu
+- 👋 Hi, I’m @Ram
+- 👀 I’m interested in Full Stack Development. Backend Development
+- 🌱 I’m currently learning System Design
+💞️ I’m looking to collaborate on Building Scalable Systems
+- 📫 Here's How to reach me -> hiralrnagda@gmail.com
 
 <!---
 hiralrnagda/hiralrnagda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
