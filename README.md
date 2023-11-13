@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Hiral Nagda
-- 👋 Hi, I’m @Ram
+- 👋 Hi, I’m @Hiral
 - 👀 I’m interested in Full Stack Development. Backend Development
 - 🌱 I’m currently learning System Design
 💞️ I’m looking to collaborate on Building Scalable Systems
